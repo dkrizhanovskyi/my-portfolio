@@ -1,0 +1,10 @@
+title: Daniil Krizhanovskyi's Portfolio
+email: daniil.kriyhanovskyi@hotmail.com
+description: >-
+  Personal site of smart contract developer Daniil Krizhanovskyi, including information about my projects and about me.
+baseurl: "/my-portfolio"
+url: "https://dkrizhanovskyi.github.io" 
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
