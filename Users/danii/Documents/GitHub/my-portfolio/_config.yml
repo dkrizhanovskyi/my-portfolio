@@ -8,3 +8,20 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      lang: "en"
+
+collections:
+  portfolio:
+    output: true
+
+languages:
+  en:
+    name: "English"
+    dir: "/"
