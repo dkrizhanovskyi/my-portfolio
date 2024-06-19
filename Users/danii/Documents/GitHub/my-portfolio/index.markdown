@@ -9,6 +9,8 @@ permalink: /
 
 My name is Daniil Krizhanovskyi, I am a smart contract developer. Here you will find information about me and my projects.
 
+[About Me](about/)
+
 ## My Projects {#projects}
 
 ### VotingDapp
