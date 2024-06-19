@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: home
 title: Home
-lang: en
-permalink: /
 ---
 
 # Welcome to my site
