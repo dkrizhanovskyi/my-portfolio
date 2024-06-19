@@ -16,12 +16,3 @@ defaults:
     values:
       layout: "default"
       lang: "en"
-
-collections:
-  portfolio:
-    output: true
-
-languages:
-  en:
-    name: "English"
-    dir: "/"
