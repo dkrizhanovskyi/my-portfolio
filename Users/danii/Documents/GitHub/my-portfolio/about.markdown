@@ -1,18 +1,32 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: Home
+lang: en
+permalink: /
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Welcome to my site
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Daniil Krizhanovskyi, I am a smart contract developer. Here you will find information about me and my projects.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[About Me](about/)
 
+## My Projects {#projects}
 
-[jekyll-organization]: https://github.com/jekyll
+### VotingDapp
+**VotingDapp** is a decentralized application for voting, created to ensure the security and transparency of the electoral process using blockchain technology.
+
+**Features:**
+- **Security and Transparency:** Votes are recorded in the blockchain, preventing tampering.
+- **Decentralized Data Storage:** Voting data is stored on multiple nodes, ensuring high protection.
+- **Verification of Results:** Allows public verification of voting results.
+
+**Tech Stack:**
+- Solidity for smart contract development.
+- Ethereum for smart contract execution.
+- React for building the user interface.
+
+**Skills Applied in the Project:**
+- Smart contract development.
+- Decentralized data storage.
+- Blockchain integration with web applications.
