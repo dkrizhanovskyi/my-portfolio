@@ -9,7 +9,7 @@ permalink: /
 
 My name is Daniil Krizhanovskyi, I am a smart contract developer. Here you will find information about me and my projects.
 
-## My Projects
+## My Projects {#projects}
 
 ### VotingDapp
 **VotingDapp** is a decentralized application for voting, created to ensure the security and transparency of the electoral process using blockchain technology.
